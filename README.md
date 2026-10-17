@@ -3,7 +3,12 @@
 </p>
 
 
-<img src="https://cemaltarakci.com/wp-json/github/v1/counter?repo=ctarakci-profile" alt="Profile Visits">
+
+<p align="left">
+  <img align="center" src="https://cemaltarakci.com/wp-json/github/v1/counter?repo=ctarakci&v=1" alt="Profile Visits" />
+</p>
+
+
 I’m currently working on mmwave Radar Devices.
 
 My personal page - [cemaltarakci.com](http://cemaltarakci.com)
