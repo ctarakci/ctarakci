@@ -2,8 +2,7 @@
 <a href="#" style="background-color: black; color: white; font-weight: bold; font-size: 24px;">Cemal TARAKÇI - Embedded Software Developer</a>
 </p>
 
-![Profile Visits](https://cemaltarakci.com/wp-json/github/v1/counter?repo=https://github.com/ctarakci/ctarakci.git)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ctarakci&label=Profile%20views&color=0e75b6&style=flat-square" alt="ctarakci" /> </p>
+![Profile Visits](https://cemaltarakci.com/wp-json/github/v1/counter?repo=ctarakci)
 
 I’m currently working on mmwave Radar Devices.
 
