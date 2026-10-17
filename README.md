@@ -8,6 +8,8 @@
   <img align="center" src="https://cemaltarakci.com/wp-json/github/v1/counter?repo=test" alt="Profile Visits" />
 </p>
 
+![Profile Views](https://cemaltarakci.com/wp-json/github/v1/counter?repo=profile)
+
 
 I’m currently working on mmwave Radar Devices.
 
