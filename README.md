@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img align="center" src="https://cemaltarakci.com/wp-json/github/v1/counter?repo=ctarakci&v=1" alt="Profile Visits" />
+  <img align="center" src="https://cemaltarakci.com/wp-json/github/v1/counter?repo=test" alt="Profile Visits" />
 </p>
 
 
