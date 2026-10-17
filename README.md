@@ -2,11 +2,12 @@
 <a href="#" style="background-color: black; color: white; font-weight: bold; font-size: 24px;">Cemal TARAKÇI - Embedded Software Developer</a>
 </p>
 
-![Profile Visits](https://cemaltarakci.com/wp-json/github/v1/counter?repo=ctarakci)
 
+<img src="https://cemaltarakci.com/wp-json/github/v1/counter?repo=ctarakci-profile" alt="Profile Visits">
 I’m currently working on mmwave Radar Devices.
 
 My personal page - [cemaltarakci.com](http://cemaltarakci.com)
+
 <p align="left">
 <a href="https://www.linkedin.com/in/cemaltarakci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="cemal-tarakci/" height="32" width="32" /></a>
 </p>
